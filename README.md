@@ -93,6 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
+- StackBlitz team for the amazing Bolt
 - Vue.js team for the amazing framework
 - Tailwind CSS for the utility-first CSS framework
 - The open-source community for inspiration and tools
