@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/stores/converter.ts","./src/app.vue","./src/components/convertedimageslist.vue","./src/components/dimensioncontrols.vue","./src/components/errornotification.vue","./src/components/filedropzone.vue","./src/components/helloworld.vue"],"version":"5.6.3"}
